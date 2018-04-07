@@ -8,7 +8,7 @@ project 4: Check the domain name
 
 project 5:  Andriod APP for project 2. 
 
-project 6: FOSS website APP
+project 6: FOSS android application
 
 Project 7: Desktop Application and interface for attendance API
 
