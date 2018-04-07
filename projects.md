@@ -6,7 +6,7 @@ project 3: Blog like CMS
 
 project 4: Check the domain name  
 
-project 5:  Andriod APP for project 2. 
+project 5:  Andriod application for project 2. 
 
 project 6: FOSS android application
 
