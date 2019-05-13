@@ -1,6 +1,6 @@
 # Android Application Development
 
-![](https://img.shields.io/maintenance/yes/2018.svg) [![](https://img.shields.io/github/last-commit/amfoss/master-syllabus.svg)]()
+![](https://img.shields.io/maintenance/no/2019.svg) [![](https://img.shields.io/github/last-commit/amfoss/master-syllabus.svg)]()
 
 ## Introduction
 
@@ -162,8 +162,7 @@ Below mentioned are a few sites from which you can solve more problems:
    * **CodeChef**
 
       You can solve problems from [here](https://www.codechef.com/problems/school).
-
-<hr>
+      
 
 ## <a name="aad">Android Fundamentals</a>
 
@@ -191,8 +190,6 @@ Please view the following sites to learn android application development -
 3. **Android Jetpack**
 
    [This](https://developer.android.com/jetpack/) site contains recent and the lastest tools released by Google to create robust, efficient and structured Android apps. 
-
-<hr>
 
 ## Miscellaneous
 
@@ -251,4 +248,4 @@ Below-mentioned are a few websites which explain good coding practices that one 
 
 Once you know the basics of Android Application Development well, you can apply for the position of [**Android Associate Developer**](https://developers.google.com/training/certification/associate-android-developer/). 
 
-And once you have mastered Android Application Development you can also apply for the position [**Android Developer Expert**](https://developers.google.com/experts/become-an-expert).  
+And once you have mastered Android Application Development you can also apply for the position of [**Android Developer Expert**](https://developers.google.com/experts/become-an-expert).  
