@@ -7,9 +7,9 @@
 Before getting started with Android application development, please make sure that you know the following very well - 
 
 1. Learn any of the following programming languages - 
-    * [```Java```](/java) :coffee: (Preferred)
-    * [```Kotlin```](/kotlin) :coffee:
-    * [```Dart```](/dart)  :dart: 
+    * [```Java```](/android/java.md) :coffee: (Preferred)
+    * [```Kotlin```](/android/kotlin.md) :coffee:
+    * [```Dart```](/android/dart.md)  :dart: 
 2. Learn Object Oriented Programming in any of the languages mentioned above. 
 3. Also, learn the basics of functional programming in any of the languages mentioned above.
 4. Once, you are familiar with the topics mentioned above, you can proceed with [Android Application Development](#aad).
